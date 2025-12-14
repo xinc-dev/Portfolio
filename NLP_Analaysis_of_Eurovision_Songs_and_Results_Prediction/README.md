@@ -8,7 +8,7 @@ Due to NLP workloads, memory requirements, and interactive visualizations, the n
 
 ## How to Run the Code
 
-1. Open the notebook **`final_project_Colab.ipynb`** in **Google Colab**  
+1. Open the notebook **`NLP_Analysis_of_Eurovison_Songs_and_Results_Prediction.ipynb`** in **Google Colab**  
    (Do not run this notebook on a local machine.)
 
 2. Run the notebook **from top to bottom**.
@@ -28,10 +28,10 @@ Due to NLP workloads, memory requirements, and interactive visualizations, the n
 
 ## File Overview
 
-- **`final_project_Colab.ipynb`**  
+- **`NLP_Analysis_of_Eurovison_Songs_and_Results_Prediction`**  
   Full analysis notebook containing code, comments, and results.
 
-- **`final_project.ipynb - Colab.pdf`**  
+- **`NLP_Analysis_of_Eurovison_Songs_and_Results_Prediction.pdf`**  
   Static PDF export of the notebook, including both code and outputs, provided for easy review when GitHub preview is unavailable.
 
 ---
